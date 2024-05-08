@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | React
+- 🌐 &nbsp; Spring | Django | HTML | CSS | JavaScript | React
 - 🛢 &nbsp; Postgres | DynamoDB
 - 🔧 &nbsp; Visual Studio code | Intellij | Git
 
