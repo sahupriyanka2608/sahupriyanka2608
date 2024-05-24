@@ -21,7 +21,7 @@
 <p align="center">
 &nbsp; <a href="mailto:priyanka.2708.sahu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/piyu_26_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/priyankasahu27/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="www.linkedin.com/in/priyanka27081996" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
 ⭐️ From [Priyanka](https://github.com/sahupriyanka2608)
